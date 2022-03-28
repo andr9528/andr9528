@@ -2,7 +2,7 @@
 
 I have a Bachelor in Software development, with a focus on Backend development with use of C#.
 
-Currently i spend a bit of time here and there working on either my game [Deities and Monsters](https://github.com/Wolfrite/DeitiesAndMonsters-Public) or my program [TimeTracker](https://github.com/andr9528/TimeTracker), both of which uses my submodule [Wolf.Utility.Core](https://github.com/andr9528/Wolf.Utility.Core)
+Currently, when i am not on the lookout for work, i spend a bit of time here and there working on either my game [Deities and Monsters](https://github.com/Wolfrite/DeitiesAndMonsters-Public) or my program [TimeTracker](https://github.com/andr9528/TimeTracker), both of which uses my submodule [Wolf.Utility.Core](https://github.com/andr9528/Wolf.Utility.Core)
 
 <!--
 **andr9528/andr9528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
