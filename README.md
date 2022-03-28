@@ -1,6 +1,7 @@
 ### About me
 
 I have a Bachelor in Software development, with a focus on Backend development with use of C#.
+For anybody ineterested my CV can be found [here](https://drive.google.com/file/d/1ZOuCYjfvLkhuHpEg0rCmXhnNhlC2pStO/view?usp=sharing).
 
 Currently, when i am not on the lookout for work, i spend a bit of time here and there working on either my game [Deities and Monsters](https://github.com/Wolfrite/DeitiesAndMonsters-Public) or my program [TimeTracker](https://github.com/andr9528/TimeTracker), both of which uses my submodule [Wolf.Utility.Core](https://github.com/andr9528/Wolf.Utility.Core)
 
